@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdikhaliq Mohamoud</h1>
-<h3 align="center">A dedicated full-stack developer hailing from Somalia with a strong drive for success and expertise in various areas of development.</h3>
+<h3 align="center">A dedicated full-stack developer with a strong drive for success and expertise in React and Nodejs. 🇸🇴💪🔥🚀👨‍💻</h3>
 
 - 🔭 I’m currently working on [job portal](https://github.com/theAbdikhaliq/jobPortal)
 
