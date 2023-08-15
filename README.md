@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **JavaScript, React, Node and SQL.**
 
-- 📫 How to reach me **me@abdikhaliq.com**
+- 📫 How to reach me **mo.abdikhaliq@gmail.com**
 
 - 📄 Know about my experiences [http://tiny.cc/mydevresume](http://tiny.cc/mydevresume)
 
