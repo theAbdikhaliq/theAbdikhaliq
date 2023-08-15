@@ -5,15 +5,15 @@
 
 - 🌱 I’m currently learning **JavaScript, React, Node and SQL.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/theAbdikhaliq/](https://github.com/theAbdikhaliq/)
+- 👨‍💻 All of my projects are available at [github](https://github.com/theAbdikhaliq/)
 
-- 📝 I regularly write articles on [https://theabdikhaliq.substack.com/](https://theabdikhaliq.substack.com/)
+- 📝 I regularly write articles on [substack](https://substack.com/@theAbdikhaliq)
 
 - 💬 Ask me about **JavaScript, React, Node and SQL.**
 
 - 📫 How to reach me **mo.abdikhaliq@gmail.com**
 
-- 📄 Know about my experiences [http://tiny.cc/mydevresume](http://tiny.cc/mydevresume)
+- 📄 Know about my experiences [tiny.cc/mydevresume](http://tiny.cc/mydevresume)
 
 - ⚡ Fun fact **I think I am comical**
 
